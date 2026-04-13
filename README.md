@@ -2,14 +2,6 @@
 
 **VolumeLab** is a C++ and SQLite-based fitness tracking application designed to help users build workout programs, log training sessions, monitor progress, and analyze long-term workout trends. The project focuses on structured workout data, performance tracking, and analytics, with support for program templates, workout history, scheduling, and progress insights.
 
-## Team Members
-
-- Adrian Caricari
-- Fin Faniyi
-- Eric Jiang
-- Dhruvil Patel
-- Negar Dehghaneian
-
 ## Project Overview
 
 VolumeLab is a workout tracking and analytics system built to give users a structured way to manage their training. Core capabilities include:
